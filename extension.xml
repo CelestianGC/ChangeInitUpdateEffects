@@ -3,7 +3,7 @@
 <root version="3.0" >
 
 	<properties>
-		<name>CoreRPG - Change Initiative, Update Effects</name>
+		<name>5E - Change Initiative, Update Effects</name>
 		<version>1.0</version>
 		<loadorder>99</loadorder>
 		<description>
@@ -13,10 +13,9 @@
 		</description>
 	</properties>
 
-	<announcement text="Change Initiative, Update Effects v1.0, CoreRPG+ version.\rFor Fantasy Grounds" font="emotefont" />
+	<announcement text="Change Initiative, Update Effects v1.0, 5E version.\rFor Fantasy Grounds" font="emotefont" />
 
 	<base>		
     <script name="ManagerChangeInitUpdateEffect" file="scripts/manager_effect_ChangeInitUpdateEffect.lua" />
-    <includefile source="graphics/graphics_death_idicator.xml" />
   </base>
 </root>
